@@ -9,10 +9,10 @@ The vision for this project is to create a knowledge-based society through exten
 ### Installation
 
 ESampark requires jdk 1.7 or above and MySql GUI tools to run.
-Step 1: Install [MySql GUI tools](https://downloads.mysql.com/archives/gui/)
-Step 2: Open MySQL Query Administrator and restore database from esampark.sql
-Step 3: Install jdk 1.7 or above from [oracle's website](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
-Step 4: Run Project.jar to execute the project. 
+-Step 1: Install [MySql GUI tools](https://downloads.mysql.com/archives/gui/)
+-Step 2: Open MySQL Query Administrator and restore database from esampark.sql
+-Step 3: Install jdk 1.7 or above from [oracle's website](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
+-Step 4: Run Project.jar to execute the project. 
 
 For logging into admin's account:
 Username-Admin
